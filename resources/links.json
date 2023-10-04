@@ -1,0 +1,20 @@
+[
+    {
+        "url":"#/",
+        "displayInNav": true,
+        "displayInFooter": true,
+        "linkText": "Home"
+    },
+    {
+        "url":"#/login",
+        "displayInNav": false,
+        "displayInFooter": false,
+        "linkText": "login"
+    },
+    {
+        "url":"#/signup",
+        "displayInNav": false,
+        "displayInFooter": false,
+        "linkText": "signup"
+    }
+]

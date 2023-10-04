@@ -1,0 +1,17 @@
+{
+    "login_title_str": "LOGIN",
+    "user_str": "usuário",
+    "password_str":"senha",
+    "login_button_str": "entrar",
+    "no_account_str": "Não possui conta?",
+    "company_name_str": "nome da empresa",
+    "email_str": "e-mail",
+    "CNPJ_str":  "CNPJ",
+    "confirm_password_str": "confirmar senha",
+    "confirm_button_str": "confirmar",
+    "signup_title_str": "INSCRIÇÃO",
+    "bid_button_str": "Novo Lance",
+    "starting_bid_str": "valor inicial",
+    "current_bid_str": "valor atual",
+    "min_bid_str": "lance minimo"
+}

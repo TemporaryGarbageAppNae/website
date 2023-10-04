@@ -1,0 +1,52 @@
+[
+    {
+        "id":"1",
+        "content":"plastico",
+        "quantity":"10 kg",
+        "region":"Salvador",
+        "date":"30/05/2000",
+        "start_value":10,
+        "current_value":60,
+        "minimal_bid":5
+    },
+    {
+        "id": "2",
+        "content": "glass",
+        "quantity": "5 kg",
+        "region": "Miami",
+        "date": "15/08/2001",
+        "start_value": 15,
+        "current_value": 70,
+        "minimal_bid": 8
+    },
+    {
+        "id": "3",
+        "content": "paper",
+        "quantity": "20 kg",
+        "region": "New York",
+        "date": "10/11/2002",
+        "start_value": 12,
+        "current_value": 55,
+        "minimal_bid": 6
+    },
+    {
+        "id": "4",
+        "content": "metal",
+        "quantity": "8 kg",
+        "region": "Los Angeles",
+        "date": "25/03/2003",
+        "start_value": 20,
+        "current_value": 75,
+        "minimal_bid": 7
+    },
+    {
+        "id": "5",
+        "content": "wood",
+        "quantity": "15 kg",
+        "region": "Chicago",
+        "date": "20/06/2004",
+        "start_value": 18,
+        "current_value": 63,
+        "minimal_bid": 9
+    }
+]
